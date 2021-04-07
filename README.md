@@ -1,1 +1,1 @@
-# devloper_knidhi
+Today I learnt about [Cross Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) and [Subresource Integerity](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity)
